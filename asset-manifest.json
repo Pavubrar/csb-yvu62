@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://pavubrar.github.io/csb-yvu62/static/css/main.dd3c186b.chunk.css",
+    "main.js": "https://pavubrar.github.io/csb-yvu62/static/js/main.06bbfb2b.chunk.js",
+    "main.js.map": "https://pavubrar.github.io/csb-yvu62/static/js/main.06bbfb2b.chunk.js.map",
+    "runtime-main.js": "https://pavubrar.github.io/csb-yvu62/static/js/runtime-main.457233ce.js",
+    "runtime-main.js.map": "https://pavubrar.github.io/csb-yvu62/static/js/runtime-main.457233ce.js.map",
+    "static/js/2.b2daa0f4.chunk.js": "https://pavubrar.github.io/csb-yvu62/static/js/2.b2daa0f4.chunk.js",
+    "static/js/2.b2daa0f4.chunk.js.map": "https://pavubrar.github.io/csb-yvu62/static/js/2.b2daa0f4.chunk.js.map",
+    "index.html": "https://pavubrar.github.io/csb-yvu62/index.html",
+    "static/css/main.dd3c186b.chunk.css.map": "https://pavubrar.github.io/csb-yvu62/static/css/main.dd3c186b.chunk.css.map",
+    "static/js/2.b2daa0f4.chunk.js.LICENSE.txt": "https://pavubrar.github.io/csb-yvu62/static/js/2.b2daa0f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.457233ce.js",
+    "static/js/2.b2daa0f4.chunk.js",
+    "static/css/main.dd3c186b.chunk.css",
+    "static/js/main.06bbfb2b.chunk.js"
+  ]
+}
